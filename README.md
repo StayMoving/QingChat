@@ -4,9 +4,9 @@
 
 <tr>
 <td> <img src="https://staymoving.github.io/QingChat/1.png"> </td>
-<td> <img src="https://staymoving.github.io/QingChat/2"> </td>
-<td> <img src="https://staymoving.github.io/QingChat/3"> </td>
-<td> <img src="https://staymoving.github.io/QingChat/4"> </td>
+<td> <img src="https://staymoving.github.io/QingChat/2.png"> </td>
+<td> <img src="https://staymoving.github.io/QingChat/3.png"> </td>
+<td> <img src="https://staymoving.github.io/QingChat/4.png"> </td>
 </tr>
 
 <tr>
